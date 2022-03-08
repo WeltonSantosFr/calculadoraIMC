@@ -1,0 +1,39 @@
+* {
+    padding: 10px;
+    margin: 0;
+}
+
+.tela {
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 2px 2px black;
+    margin-top: 10px;
+}
+
+.dados {
+    background-color: bisque;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 2px 2px black;
+}
+
+.dados input {
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    margin-bottom: 10px;
+}
+
+.oBotao {
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    margin-bottom: 10px;
+}
+
+.oBotao:hover {
+    background-color: red;
+    color: white;
+}
